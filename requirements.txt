@@ -1,1 +1,3 @@
-
+sightengine
+webcolors
+discord.py
